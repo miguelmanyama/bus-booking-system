@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./configs",
+        "./config"
+    ]
+}
